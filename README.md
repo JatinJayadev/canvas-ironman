@@ -1,1 +1,1 @@
-# canvas-ironman
+# canvas-app-boilerplate
